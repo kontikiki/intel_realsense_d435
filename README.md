@@ -6,7 +6,7 @@ $ ~/.gazebo/models/intel_realsense_d435/
 Converting file to .sdf from .urdf(xacro)
 
 Using with other models
-1. use <include> tag for adding d435 model
+1. use "include" tag for adding d435 model
 2. and copy & paste camera plugin
 
 3. if other models are urdf files, you must use "gazebo" tag below "plugin" 
